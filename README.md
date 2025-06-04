@@ -24,6 +24,7 @@
 
 ## Me
 
+- [Tech site](https://www.phildev.net/)
 - [Resume](https://phildev.net/PhilDibowitzResume.pdf) (pdf)
 - [GitHub](https://github.com/jaymzh/)
 - [Public talks, interviews, and other press](https://www.phildev.net/press.html)
