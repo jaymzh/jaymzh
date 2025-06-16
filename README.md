@@ -6,10 +6,10 @@
 
 - [IP Tables State](https://github.com/jaymzh/iptstate/) - A tool to display stateful connections across an iptables/nftables firewall in a curses display (C++)
 - [SugarJar](https://github.com/jaymzh/sugarjar/) - A wrapper for `git` and `gh`/`hub` to make working with git and GitHub easier (ruby)
-- [Setup-OOB](https://github.com/jaymzh/setup-oob/) - A pluggable, extensible application for configuring out-of-band management systems from the OS.
-- [Main Branch Check](https://github.com/jaymzh/main-branch-check-action) - A GitHub action for checking the primary branch from a PR
-- [Kubectl Daemons](https://github.com/jaymzh/kubectl-daemons) - A kubectl plugin to make working with daemonsets easier
-- [OSS Stats](https://github.com/jaymzh/oss-stats) - A tool for gathering and reporting status on the health of an F/OSS Community
+- [oss-stats](https://github.com/jaymzh/oss-stats/) - A suite of tools for reporting on the health of F/OSS communities (ruby)
+- [Setup-OOB](https://github.com/jaymzh/setup-oob/) - A pluggable, extensible application for configuring out-of-band management systems from the OS (ruby)
+- [Main Branch Check](https://github.com/jaymzh/main-branch-check-action) - A GitHub action for checking the primary branch from a PR (javascript)
+- [Kubectl Daemons](https://github.com/jaymzh/kubectl-daemons) - A kubectl plugin to make working with daemonsets easier (golang)
 - [PGP Individual UID Signer (pius)](https://github.com/jaymzh/pius/) - Software to help automate the verification and signing of many UIDs on many keys (python)
 - [Concordance](https://github.com/jaymzh/concordance/) - Cross-platform software to program Logitech® Harmony™ universal remote controls (C/C++)
 - [mime_dump](https://github.com/jaymzh/mime_dump/) - Configurable utility to parse and output various MIME pieces of a MIME message in various different ways for debugging or viewing complex MIME documents (perl)
