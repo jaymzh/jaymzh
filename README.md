@@ -10,6 +10,7 @@
 - [Setup-OOB](https://github.com/jaymzh/setup-oob/) - A pluggable, extensible application for configuring out-of-band management systems from the OS (ruby)
 - [Main Branch Check](https://github.com/jaymzh/main-branch-check-action) - A GitHub action for checking the primary branch from a PR (javascript)
 - [Kubectl Daemons](https://github.com/jaymzh/kubectl-daemons) - A kubectl plugin to make working with daemonsets easier (golang)
+- [Line Cook](https://github.com/jaymzh/line-cook) - A dependabot-style bot for keeping Chef cookbooks updated (python)
 - [PGP Individual UID Signer (pius)](https://github.com/jaymzh/pius/) - Software to help automate the verification and signing of many UIDs on many keys (python)
 - [Concordance](https://github.com/jaymzh/concordance/) - Cross-platform software to program Logitech® Harmony™ universal remote controls (C/C++)
 - [mime_dump](https://github.com/jaymzh/mime_dump/) - Configurable utility to parse and output various MIME pieces of a MIME message in various different ways for debugging or viewing complex MIME documents (perl)
