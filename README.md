@@ -8,6 +8,7 @@
 - [SugarJar](https://github.com/jaymzh/sugarjar/) - A wrapper for `git` and `gh`/`hub` to make working with git and GitHub easier (ruby)
 - [oss-stats](https://github.com/jaymzh/oss-stats/) - A suite of tools for reporting on the health of F/OSS communities (ruby)
 - [Setup-OOB](https://github.com/jaymzh/setup-oob/) - A pluggable, extensible application for configuring out-of-band management systems from the OS (ruby)
+- [Chronoguard](https://github.com/jaymzh/chronoguard) - A GitHub action for enforcing time-limits on TODOs (javascript)
 - [Main Branch Check](https://github.com/jaymzh/main-branch-check-action) - A GitHub action for checking the primary branch from a PR (javascript)
 - [Kubectl Daemons](https://github.com/jaymzh/kubectl-daemons) - A kubectl plugin to make working with daemonsets easier (golang)
 - [Line Cook](https://github.com/jaymzh/line-cook) - A dependabot-style bot for keeping Chef cookbooks updated (python)
